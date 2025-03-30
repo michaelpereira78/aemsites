@@ -1,6 +1,5 @@
 mountpoints:
-  /:
-  url: https://drive.google.com/drive/u/0/folders/1W5SyDJbBGyxQsOmU_CWqF-zaovwboSfJ
+  /: https://drive.google.com/drive/u/0/folders/1W5SyDJbBGyxQsOmU_CWqF-zaovwboSfJ
 
    
     
